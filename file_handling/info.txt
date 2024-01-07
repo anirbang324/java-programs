@@ -1,0 +1,7 @@
+We can perform the following operation on a file:
+
+Create a File
+Get File Information
+Write to a File
+Read from a File
+Delete a File

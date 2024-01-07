@@ -1,0 +1,44 @@
+1. We need to declare the array at first
+2. Then we have to create memory location for it
+3. now we can use the array
+
+
+
+array can be declared in several ways :
+
+int a[];
+float a[];
+int[] arr;
+float[] arr;
+
+array creation:
+
+a = new int[10];
+arr= new float[10];
+
+we can also combine declaration and creation altogether :
+
+int a=new int[15];
+
+
+array initialization :
+
+we can initialize the array by array subscripts -
+arr[0] = 12
+arr[1] = 13
+.
+.
+.
+.
+arr[10] = 21
+
+
+or we can initialize them altogether :
+
+int arr[] = [12,13,14,15,16,17,18,19,20,21]
+
+we can also assign an array object to another :
+
+int a[] = {1,2,3,4,5};
+int b[];
+b=a;
