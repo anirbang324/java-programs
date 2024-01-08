@@ -1,4 +1,4 @@
-# Java Programs
+## Java Programs
 
 This repository contains a collection of Java programs that cover various topics in Java programming. Whether you're a beginner looking for simple examples or an experienced developer exploring advanced concepts, this repository aims to provide a comprehensive resource for learning and practicing Java.
 
@@ -59,5 +59,5 @@ If you'd like to contribute to this repository by adding more programs, improvin
 
 This repository is licensed under the MIT License - see the LICENSE file for details.
 
-Happy coding!
+Happy coding!😀
 
